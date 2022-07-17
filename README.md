@@ -71,7 +71,7 @@ redis->>client: 响应缓存结果
 
 常用服务器结构：
 
-<img src="http://mdrs.yuanjin.tech/img/image-20200611140130649.png" alt="image-20200611140130649" style="zoom:50%;" />
+<img src="README.assets/image-20200611140130649-20220717185138100.png" alt="image-20200611140130649" style="zoom:50%;" />
 
 # windows 中安装redis
 
